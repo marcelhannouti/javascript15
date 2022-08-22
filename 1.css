@@ -1,0 +1,15 @@
+.añadir{
+    border: 3px solid green;
+        width: 500px;
+        align-items: center;
+        align-content: center;
+        padding: 20px;
+}
+
+.borrar{
+    border: 3px solid green;
+        width: 500px;
+        align-items: center;
+        align-content: center;
+        padding: 20px;
+}
